@@ -21,6 +21,7 @@ from scipy.linalg import eig
 from copy import deepcopy
 from typing import List, Optional, Sequence, Tuple, Type, Union
 
+
 DofID = Union[str, Dof, Tuple[str, str]]
 
 Vector = npt.NDArray[np.float64]

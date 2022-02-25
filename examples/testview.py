@@ -1,6 +1,7 @@
 import nfem
 import numpy as np
 
+
 model = nfem.Model()
 
 model.add_node('A', x=0, y=0, z=0, support='xyz')
