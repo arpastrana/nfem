@@ -1,6 +1,6 @@
 import nfem
 import numpy as np
-
+import compas_cem
 
 model = nfem.Model()
 
