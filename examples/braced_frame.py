@@ -233,4 +233,3 @@ plot.add_load_displacement_curve(model, dof=('1', 'v'))
 plot.show()
 
 model.show()
-
